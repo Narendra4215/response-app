@@ -1,0 +1,47 @@
+{
+    "abstractSummary": {
+      "overview": "This report analyzes interview responses covering key professional scenarios, including invoicing lifecycle management, task prioritization, compliance challenges, and skill development. It also explores personal and professional backgrounds, career motivations, and problem-solving approaches.",
+      "keyInsights": [
+        "Effective task prioritization and resolution strategies are crucial for handling challenges.",
+        "Responses highlighted gaps in addressing invoice discrepancies and implementing compliance policies.",
+        "Personal growth areas include corporate compliance skills and overcoming career challenges.",
+        "Secure password formation and trainee role assessment are areas needing improvement."
+      ]
+    },
+    "tabSwitchingAnalysis": {
+      "penaltyPoints": "LESS",
+      "tabSwitches": "LESS",
+      "windowBlurs": "LESS",
+      "qualityScore": "GOOD"
+    },
+    "keyPoints": [
+      "Tracking the Invoicing Lifecycle",
+      "Handling Security Compliance Discrepancies",
+      "Task Prioritization",
+      "Resolving Invoice Issues",
+      "Career Inspiration",
+      "Policy Implementation Experience",
+      "Policy Implementation Experience",
+      "Overcoming Career Challenges",
+      "Assessing Trainee Fit for SAP Roles",
+      "Professional Development"
+    ],
+    "interviewAssessment": {
+      "softSkills": "24.5/50 (scaled from 49/100)",
+      "correctness": "20/50",
+      "total": "49/100",
+      "evaluation": "This evaluation assesses an interviewee's performance in various soft skills and technical aspects. The overall recommendation is to reject the interviewee due to unclear answers and lack of structured responses.",
+      "skills": {
+        "clarityAndArticulation": "7.5%",
+        "handlingPressure": "9.4%",
+        "politenessAndRespect": "11.3%",
+        "professionalism": "11.3%",
+        "brevity": "9.4%",
+        "vocabularyAndGrammar": "9.4%",
+        "storytellingAndExamples": "9.4%",
+        "overallDelivery": "9.4%"
+      }
+    }
+  }
+  
+  

@@ -1,0 +1,31 @@
+[
+    {
+      "question": "What process would you follow to track the invoicing lifecycle for a client project and ensure no delays?",
+      "answer": "Understand Project Scope and Invoicing Milestones, Establish Clear Communication Channels, Implement a Tracking System, Set Automated Reminders, Perform Regular Reviews, Handle Delays Proactively, Track and Document."
+    },
+    {
+      "question": "How do you handle discrepancies found during the auditing of security compliance processes?",
+      "answer": "Identify the Discrepancy, Perform Root Cause Analysis, Engage Relevant Stakeholders, Document Findings, Develop a Corrective Action Plan, Implement Changes, Monitor and Verify, Communicate Lessons Learned."
+    },
+    {
+      "question": "What helps you excel in admin, HR, or compliance-related tasks?",
+      "answer": "My strengths are strong organizational skills, attention to detail, and effective communication. These qualities help me maintain precise documentation, coordinate seamlessly with teams, and uphold compliance standards efficiently. My ability to prioritize tasks and solve problems under pressure ensures smooth execution of administrative, HR, and compliance processes."
+    },
+    {
+      "question": "How would you prioritize three tasks: completing an employee onboarding process, preparing documentation for a compliance audit, and resolving a vendor’s invoice discrepancy?",
+      "answer": "Resolve the vendor’s invoice discrepancy first, Complete the employee onboarding process next, Prepare compliance audit documentation."
+    },
+    {
+      "question": "Tell us about yourself and your professional journey so far.",
+      "answer": "I am XYZ, with a background in XYZ and a strong interest in administration, HR, and compliance. My journey has involved contributing to various projects where I developed skills in process management, communication, and problem-solving. My hands-on experience with tools and processes has prepared me to excel in roles requiring meticulous organization and team collaboration."
+    },
+    {
+      "question": "What inspired you to pursue a career in administration, HR, or security compliance?",
+      "answer": "My people skills, combined with my ability to manage complex processes, inspired me to pursue this path. I enjoy creating efficient systems, fostering positive work environments, and ensuring compliance with standards. My education and previous experiences have equipped me to handle these responsibilities effectively."
+    },
+    {
+      "question": "How many passwords can be formed using 4 distinct letters from the English alphabet if the order matters?",
+      "answer": "The number of ways to arrange 4 distinct letters (where order matters) is a permutation problem: 26P4 = 26 × 25 × 24 × 23 = 358,800. Thus, 358,800 passwords can be formed."
+    }
+  ]
+  
